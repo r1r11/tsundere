@@ -48,7 +48,7 @@ const greetings = [
 // Define a smaller set of final greetings once the progression is complete.
 const finalGreetings = [
   "Oh, it's you again. I... I'm glad you're still here.",
-  "I guess you mean something to me, not that I'd ever admit it!",
+  "Hmph. It's not like I’d care if you left... but the terminal would feel... quieter.",
   "Look, if you really want to see me happy, then... okay, here's a greeting."
 ];
 
